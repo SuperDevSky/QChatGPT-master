@@ -1,0 +1,13 @@
+requests
+openai~=0.28.1
+dulwich~=0.21.6
+colorlog~=6.6.0
+yiri-mirai
+websockets
+urllib3
+func_timeout~=4.3.5
+Pillow
+nakuru-project-idk
+CallingGPT
+tiktoken
+PyYaml
